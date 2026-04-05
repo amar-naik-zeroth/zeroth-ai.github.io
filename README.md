@@ -1,1 +1,1 @@
-# zeroth-ai.github.io
+# zeroth-ai.github
